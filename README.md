@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcus Vinicius Celião da Silva 👋
 
-- 🔭 Estou trabalhando atualmente como front end e professor na rede pública SP
-- 🌱 Estou estudando JavaScript
+- 🔭 Trabalhando atualmente como front end e professor na rede pública SP
+- 🌱 Estudando JavaScript
 - 😄 Pronome ele/dele
 
 <div align="center">
