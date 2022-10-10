@@ -1,11 +1,11 @@
-![Masterhead]![Banner](https://user-images.githubusercontent.com/114368047/194932039-d252774c-8987-426a-bbd1-fc875b5ee6c9.jpg)
+![Banner](https://user-images.githubusercontent.com/114368047/194932039-d252774c-8987-426a-bbd1-fc875b5ee6c9.jpg)
 <h1 align="center">### Olá! Eu sou o Marcus Vinicius Celião da Silva 👋</h1>
 
 <img align="right" alt="Surf" height="200" width="200"  src="https://user-images.githubusercontent.com/114368047/194947774-51ca199c-92c4-4d00-9331-ead29e353a66.png">
 
 - 🔭 Atualmente trabalho como professor na rede pública de SP
 - 🌱 Estudando JavaScript
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 Como me encontrar **marcus.vini.dev@gmail.com**
 - 😄 Pronome ele/dele
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marcus-Vinicius-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Marcus-Vinicius-Dev" /> </p>
