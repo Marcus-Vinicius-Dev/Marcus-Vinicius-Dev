@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marcus-Vinicius-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Marcus-Vinicius-Dev" /> </p>
 
-<h3 align="left">Linguagens e Ferramentas</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <div align="left" style="display: inline_block">
   <img alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
