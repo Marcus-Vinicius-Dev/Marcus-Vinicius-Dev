@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente trabalho como professor na rede pública de SP
 - 🌱 Estudando JavaScript
-- 📫 Como me encontrar **marcus.vini.dev@gmail.com**
+- 📫 Como me encontrar? **marcus.vini.dev@gmail.com**
 - 😄 Pronome ele/dele
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marcus-Vinicius-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Marcus-Vinicius-Dev" /> </p>
