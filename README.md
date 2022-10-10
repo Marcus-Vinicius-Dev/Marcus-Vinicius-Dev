@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcus Vinicius Celião da Silva 👋
 
-- 🔭 Estou trabalhando atualmente com front end
+- 🔭 Estou trabalhando atualmente como front end
 - 🌱 Estou estudando JavaScript
 - 😄 Pronome ele/dele
 
