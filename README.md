@@ -21,9 +21,9 @@
 <div align="center">
   <a href="https://github.com/Marcus-Vinicius-Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicius-Dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicius-Dev&layout=compact&langs_count=7&theme=dark"/><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&layout=compact&langs_count=7&theme=dark" alt="Marcus-Vinicius-Dev" />
 </div>
- 
  
   ![Snake animation](https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/blob/output/github-contribution-grid-snake.svg)
  
