@@ -16,7 +16,7 @@
   <img alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
   
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Contatos:</h3>
 <div align="left" style="display: inline_block"> 
   <a href = "mailto:marcus.vini.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
