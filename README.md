@@ -1,5 +1,9 @@
 ![Banner](https://user-images.githubusercontent.com/114368047/194932039-d252774c-8987-426a-bbd1-fc875b5ee6c9.jpg)
-<h1 align="center">### Olá! Eu sou o Marcus Vinicius Celião da Silva 👋</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Olá! Sou o Marcus Vinicius
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
 <img align="right" alt="Surf" height="200" width="200"  src="https://user-images.githubusercontent.com/114368047/194947774-51ca199c-92c4-4d00-9331-ead29e353a66.png">
 
