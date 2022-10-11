@@ -18,7 +18,7 @@
 <div align="left" style="display: inline_block">
   <img alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div><br>
+</div>
   
 <h3 align="left">Contatos:</h3>
 <div align="left" style="display: inline_block"> 
