@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/114368047/194932039-d252774c-8987-426a-bbd1-fc875b5ee6c9.jpg)
+![Banner](https://user-images.githubusercontent.com/114368047/195998274-35149a9d-5fc9-4ef4-ad71-61cd2948277d.jpg)
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Olá! Sou o Marcus Vinicius
