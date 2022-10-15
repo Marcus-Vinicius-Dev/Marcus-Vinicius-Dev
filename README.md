@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=html+%7C%7C+css+%7C%7C+git+%7C%7C+Github;Estudante+de+Engenharia+da+Computação;Aprendendo+algo+novo+todo+dia!&center=true&width=800&height=45" alt="JacksonBernier523">
+</p>
+
 ![Banner](https://user-images.githubusercontent.com/114368047/195998274-35149a9d-5fc9-4ef4-ad71-61cd2948277d.jpg)
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -27,7 +31,7 @@
 
 [![Gráfico de atividades do Marcus-Vini-Dev](https://activity-graph.herokuapp.com/graph?username=Marcus-Vinicius-Dev&&theme=xcode)](https://github.com/Marcus-Vinicius-Dev)
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Marcus-Vinicius-Dev" /></p><br>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Marcus-Vinicius-Dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&theme=dark" alt="Marcus-Vinicius-Dev" /></p>
 
