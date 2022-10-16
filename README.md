@@ -26,7 +26,8 @@
   
 <h3 align="left">Contatos:</h3>
 <div align="left" style="display: inline_block"> 
-  <a href = "mailto:marcus.vini.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcus.vini.dev@gmail.com">:email:</a>  
+  <a href="https://web.whatsapp.com/send?phone=5511942502552">:telephone_receiver:</a>
 </div><br>
 
 [![Gráfico de atividades do Marcus-Vini-Dev](https://activity-graph.herokuapp.com/graph?username=Marcus-Vinicius-Dev&&theme=xcode)](https://github.com/Marcus-Vinicius-Dev)
