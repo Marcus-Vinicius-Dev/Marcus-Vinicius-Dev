@@ -32,7 +32,7 @@
 
 [![Gráfico de atividades do Marcus-Vini-Dev](https://activity-graph.herokuapp.com/graph?username=Marcus-Vinicius-Dev&&theme=xcode)](https://github.com/Marcus-Vinicius-Dev)
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Marcus-Vinicius-Dev" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Marcus-Vinicius-Dev" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&theme=dark" alt="Marcus-Vinicius-Dev" /></p>
 
