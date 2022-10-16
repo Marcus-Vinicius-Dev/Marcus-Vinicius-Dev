@@ -32,12 +32,15 @@
 
 [![Gráfico de atividades do Marcus-Vini-Dev](https://activity-graph.herokuapp.com/graph?username=Marcus-Vinicius-Dev&&theme=xcode)](https://github.com/Marcus-Vinicius-Dev)
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Marcus-Vinicius-Dev" /></p><br>
+<div align="center">
+  
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Marcus-Vinicius-Dev" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&theme=dark" alt="Marcus-Vinicius-Dev" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&theme=dark" alt="Marcus-Vinicius-Dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&&theme=dark" alt="Marcus-Vinicius-Dev" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&&theme=dark" alt="Marcus-Vinicius-Dev" /></p>
 
+</div>
  
   ![Snake animation](https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/blob/output/github-contribution-grid-snake.svg)
  
