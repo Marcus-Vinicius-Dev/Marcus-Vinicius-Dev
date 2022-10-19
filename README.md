@@ -20,8 +20,10 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div align="left" style="display: inline_block">
-  <img alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Marcus-HTML" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img alt="Marcus-CSS" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img alt="Marcus-GIT" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img alt="Marcus-GITHUB" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">      
 </div>
   
 <h3 align="left">Contatos:</h3>
