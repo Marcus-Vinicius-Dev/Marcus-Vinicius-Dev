@@ -35,7 +35,7 @@
   
 <h3 align="left">Contatos:</h3>
 <div align="left" style="display: inline_block"> 
-  <a href = "mailto:marcus.vini.dev@gmail.com" target="_blank">:email:</a>  
+  <a href = "mailto:marcus.vini.dev@gmail.com" target="_blank">:email:</a> 
   <a href="https://web.whatsapp.com/send?phone=5511942502552" target="_blank">:telephone_receiver:</a>
 </div><br>
 
