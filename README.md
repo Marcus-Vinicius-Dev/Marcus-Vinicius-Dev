@@ -18,13 +18,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marcus-Vinicius-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Marcus-Vinicius-Dev" /> </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<div align="left" style="display: inline_block">
-  <img alt="Marcus-HTML" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img alt="Marcus-CSS" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img alt="Marcus-GIT" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img alt="Marcus-GITHUB" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">      
-</div>
+<table>
+  <thead>
+    <tr>
+      <th colspan="7">Linguagens e Ferramentas:</th>
+    </tr>
+  </thead>
+  <tr>
+    <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+    <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
+    <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
+    <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
+    <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </td>    
+  </tr>
+ </table>
   
 <h3 align="left">Contatos:</h3>
 <div align="left" style="display: inline_block"> 
