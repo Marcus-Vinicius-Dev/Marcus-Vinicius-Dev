@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=html+%7C%7C+css+%7C%7C+git+%7C%7C+Github;Estudante+de+Engenharia+da+Computação;Aprendendo+algo+novo+todo+dia!&center=true&width=800&height=45" alt="JacksonBernier523">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=HTML+%7C%7C+CSS+%7C%7C+Git+%7C%7C+Github;Estudante+de+Engenharia+da+Computação;Aprendendo+algo+novo+todo+dia;A+melhor+maneira+de+prever+o+futuro+é+criá-lo.+(Peter+Drucker)&center=true&width=800&height=45" alt="JacksonBernier523">
 </p>
 
 ![Banner](https://user-images.githubusercontent.com/114368047/195998274-35149a9d-5fc9-4ef4-ad71-61cd2948277d.jpg)
