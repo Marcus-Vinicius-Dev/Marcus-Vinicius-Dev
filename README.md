@@ -53,5 +53,13 @@
  
   ![Snake animation](https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/blob/output/github-contribution-grid-snake.svg)
   
-	⬇ Confira meus projetos abaixo e deixe uma ⭐️ ⬇
+	# Contribuições
+(nos últimos 365 dias, o gráfico de setor é baseado no número de commits)
+
+![](./profile-3d-contribuicao/profile-night-green.svg)
+
+<br/>
+<h3 align="center">
+  ⬇ Confira meus projetos abaixo e deixe uma ⭐️ ⬇
+</h3>
  
