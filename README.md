@@ -52,4 +52,6 @@
 </div>
  
   ![Snake animation](https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/blob/output/github-contribution-grid-snake.svg)
+  
+	⬇ Confira meus projetos abaixo e deixe uma ⭐️ ⬇
  
