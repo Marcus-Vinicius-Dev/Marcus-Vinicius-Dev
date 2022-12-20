@@ -28,8 +28,6 @@
   <a href = "mailto:marcus.vini.dev@gmail.com" target="_blank">:email:</a> 
   <a href="https://web.whatsapp.com/send?phone=5511942502552" target="_blank">:telephone_receiver:</a>
 </div><br>
-
-[![Gráfico de atividades do Marcus-Vini-Dev](https://activity-graph.herokuapp.com/graph?username=Marcus-Vinicius-Dev&&theme=xcode)](https://github.com/Marcus-Vinicius-Dev)
   
 <div align="center">
   
