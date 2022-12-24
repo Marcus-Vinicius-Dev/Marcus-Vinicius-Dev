@@ -33,7 +33,7 @@
   
 <h3 align="left">Contatos:</h3>
 <div align="left" style="display: inline_block"> 
-  <a href="https://marcusviniciusdev.com.br/" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/ alt="website"> </a>  
+  <a href="https://marcusviniciusdev.com.br/#index.html#portfolio/" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/ alt="website"> </a>  
   <a href="https://web.whatsapp.com/send?phone=5511942502552" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/ alt="whatsapp"> </a>
   <a href = "mailto:marcus.vini.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
     
