@@ -40,9 +40,9 @@
   
 <div align="center">
   
-  <!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&layout=compact&theme=dark/" alt="Marcus-Vinicius-Dev01">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&layout=compact" alt="Marcus-Vinicius-Dev"/></p>
 
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&theme=dark/" alt="Marcus-Vinicius-Dev02"></p>-->
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&locale=en" alt="Marcus-Vinicius-Dev"></p>
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&&theme=dark/" alt="Marcus-Vinicius-Dev03"></p>
 
