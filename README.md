@@ -45,6 +45,10 @@
 
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&locale=en" alt="Marcus-Vinicius-Dev02"/></p>
 -->
+  
+  ![Juste's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysteriousSonOfGod&show_icons=true&theme=merko)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysteriousSonOfGod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&&theme=dark/" alt="Marcus-Vinicius-Dev03"/></p>
 
