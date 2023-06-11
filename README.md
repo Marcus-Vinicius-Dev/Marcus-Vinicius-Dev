@@ -12,7 +12,7 @@
 <img align="right" alt="Surf" height="200" width="200"  src="https://user-images.githubusercontent.com/114368047/194947774-51ca199c-92c4-4d00-9331-ead29e353a66.png">
 
 - 🔭 Atualmente trabalho como professor na rede pública de SP
-- 🌱 Estudando Javascript
+- 🌱 Estudando Java
 - 📫 Como me encontrar? **marcus.vini.dev@gmail.com**
 - 😄 Pronome ele/dele
 
