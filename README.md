@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/" alt="css3">
   <!--<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/" alt="bootstrap">-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black/" alt="javascript"> 
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Java-5381a1?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+   </a>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white/" alt="git"> 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/" alt="github">  
   <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white/" alt="wordpress">
