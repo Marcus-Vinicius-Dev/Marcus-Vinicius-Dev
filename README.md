@@ -65,22 +65,22 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">PetDog Complete Website</h3>
+      <h3 align="center">RM Veículos Website</h3>
         <br />
         <a target="_blank" href="https://petdogwebsite.netlify.app">
             <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" width="100%" alt="PetDog Complete Website"/>
         </a>
         <br />
-        <p><strong>This is a website to buy PetDog online.</strong></p>
+        <p><strong>Website para portfolio</strong></p>
       <p align="left">
-        <strong> Technologies used </strong>
+        <strong> Tecnologias utilizadas </strong>
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
       </p>
       <p align="left">
-        <strong> IDE used </strong>
+        <strong> IDE usada </strong>
         <br/>
         <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
       </p>
