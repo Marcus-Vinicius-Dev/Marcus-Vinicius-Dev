@@ -63,6 +63,9 @@
   ⬇ Obrigado! Confira meus projetos abaixo e deixe uma ⭐️ ⬇
 </h3>
 
+<hr>
+<h1 align="center">Projects</h1> 
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">RM Veículos Website</h3>
@@ -95,3 +98,4 @@
       </p>
     </td>
   </tr>
+</table>
