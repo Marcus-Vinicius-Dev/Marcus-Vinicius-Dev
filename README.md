@@ -55,9 +55,6 @@
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&&theme=dark/" alt="Marcus-Vinicius-Dev03"/></p>
 
-  
-  <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9" alt="Marcus-Vinicius-Dev" /></p>
-
 </div>
  
   ![Snake animation](https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/blob/output/github-contribution-grid-snake.svg)
