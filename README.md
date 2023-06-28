@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=HTML+%7C%7C+CSS+%7C%7C+JavaScript+%7C%7C+WordPress+%7C%7C+Git+%7C%7C+Github;Estudante+de+Tecnologia+da+Informação;Aprendendo+algo+novo+todo+dia;A+melhor+maneira+de+prever+o+futuro+é+criá-lo.+(Peter+Drucker)&center=true&width=800&height=45/" alt="readme">
 </p>
 
-![Banner](https://user-images.githubusercontent.com/114368047/195998274-35149a9d-5fc9-4ef4-ad71-61cd2948277d.jpg)
 <img src="images/banner.jpg" width="100%" alt="banner"/>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -11,6 +10,7 @@
 </h1>
 
 <img align="right" alt="Surf" height="200" width="200"  src="https://user-images.githubusercontent.com/114368047/194947774-51ca199c-92c4-4d00-9331-ead29e353a66.png">
+<img src="images/surf.png" width="100%" alt="banner"/>
 
 - 🔭 Atualmente trabalho como professor na rede pública de SP
 - 🌱 Estudando Java
