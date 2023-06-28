@@ -224,21 +224,20 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Finans</h3>
+      <h3 align="center">App Calculadora</h3>
       <br />
-      <a target="_blank" href="https://finans-ficticio.netlify.app/">
-        <img src="images/finans.PNG" width="100%" alt="marcus-vini-dev"/>
+      <a target="_blank" href="https://appcalculadora.marcusviniciusdev.com.br/">
+        <img src="images/app-calculadora.PNG" width="100%" alt="app-calculadora"/>
       </a>
       <br />
       <p>
-        <strong>Site de Finanças</strong>
+        <strong>Aplicativo de calculadora simples</strong>
       </p>
       <p align="left">
         <strong> Tecnologias utilizadas </strong>
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
       </p>
       <p align="left">
         <strong> IDE usada </strong>
@@ -246,10 +245,10 @@
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-        <a href="https://github.com/Marcus-Vinicius-Dev/Site-Finans-layout-ficticio" target="_blank">
+        <a href="https://github.com/Marcus-Vinicius-Dev/SApp-Calculadora" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
         </a>  
-        <a href="https://finans-ficticio.netlify.app/" target="_blank">
+        <a href="https://appcalculadora.marcusviniciusdev.com.br/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
         </a>
       </p>
