@@ -131,7 +131,7 @@
       <h3 align="center">Spotify Website layout de estudo</h3>
         <br />
         <a target="_blank" href="https://spotify-estudo-ficticio.netlify.app/">
-            <img src="images/rm-veiculos.PNG" width="100%" alt="Spotfy"/>
+            <img src="images/spotfy.PNG" width="100%" alt="Spotfy"/>
         </a>
         <br />
         <p><strong>Website para portfolio</strong></p>
@@ -158,9 +158,9 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Marcus Vinicius Dev Website</h3>
+      <h3 align="center">Finans Website</h3>
         <br />
-        <a target="_blank" href="https://marcusviniciusdev.com.br/#home">
+        <a target="_blank" href="https://finans-ficticio.netlify.app/">
             <img src="images/marcus-vini-dev.PNG" width="100%" alt="marcus-vini-dev"/>
         </a>
         <br />
@@ -168,12 +168,14 @@
       <p align="left">
         <strong> Tecnologias utilizadas </strong>
         <br/>
-        <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white/" alt="wordpress">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
       </p>
       <p align="left">
         <strong> IDE usada </strong>
         <br/>
-        <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white/" alt="wordpress">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
           
