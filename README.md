@@ -48,7 +48,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicius-Dev&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&&theme=javascript-dark/" alt="Marcus-Vinicius-Dev03"/></p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Marcus-Vinicius-Dev&layout=compact&theme=merko)](https://git.io/streak-stats)
 
 </div>
  
