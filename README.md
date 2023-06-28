@@ -314,10 +314,10 @@
         </a>
       </p>
     </td>-->
-    <td width="50%" valign="center">
+    <td width="50%" valign="top">
       <h3 align="center">Trabalhando em algo novo :gear: :computer:</h3>
       <br />
-      <img src="images/foto-emoji-pc.png" width="50%" align="center" alt="foto-emoji-pc"/>
+      <img src="images/foto-emoji-pc.png" width="50%" walign="center" alt="foto-emoji-pc"/>
     </td>
   </tr>
 </table>
