@@ -44,13 +44,15 @@
 <br>
 <div align="center">
 
-  ![Juste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&theme=merko)
+  [![Juste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&theme=merko)]
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicius-Dev&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Marcus-Vinicius-Dev&layout=compact&theme=merko)](https://git.io/streak-stats)
   
   <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9&theme=merko" alt="status-com-foto" /></p>
+
+  (https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9&theme=merko)
 
 </div>
  
