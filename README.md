@@ -61,90 +61,153 @@
 </h3>
 
 <hr>
-  <h1 align="center">Projetos
-  </h1> 
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">RM Veículos</h3>
-        <br />
-        <a target="_blank" href="https://rmveiculosespeciais.marcusviniciusdev.com.br/">
-          <img src="images/rm-veiculos.PNG" width="100%" alt="RM Veículos Website"/>
+<h1 align="center">Projetos
+</h1> 
+<table>
+<tr>
+  <td width="50%" valign="top">
+    <h3 align="center">RM Veículos</h3>
+    <br />
+    <a target="_blank" href="https://rmveiculosespeciais.marcusviniciusdev.com.br/">
+      <img src="images/rm-veiculos.PNG" width="100%" alt="RM Veículos Website"/>
+    </a>
+    <br />
+    <p><strong>Compra e venda de carros</strong></p>
+    <p align="left">
+      <strong> Tecnologias utilizadas </strong>
+      <br/>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+    </p>
+    <p align="left">
+      <strong> IDE usada </strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    </p>
+    <p align="center">        
+       <a href="https://github.com/Marcus-Vinicius-Dev/Site-rm-veiculos-especiais" target="_blank">    
+          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://rmveiculosespeciais.marcusviniciusdev.com.br/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
         </a>
-        <br />
-        <p><strong>Compra e venda de carros</strong></p>
-        <p align="left">
-          <strong> Tecnologias utilizadas </strong>
-          <br/>
-          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-          <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-        </p>
-        <p align="left">
-          <strong> IDE usada </strong>
-          <br/>
-          <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-        </p>
-        <p align="center">        
-           <a href="https://github.com/Marcus-Vinicius-Dev/Site-rm-veiculos-especiais" target="_blank">    
-              <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-            </a>  
-            <a href="https://rmveiculosespeciais.marcusviniciusdev.com.br/" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-            </a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Marcus Vinicius Dev</h3>
-          <br />
-          <a target="_blank" href="https://marcusviniciusdev.com.br/#home">
-            <img src="images/marcus-vini-dev.PNG" width="100%" alt="marcus-vini-dev"/>
-          </a>
-          <br />
-          <p><strong>Meu Website</strong></p>
-          <p align="left">
-            <strong> Tecnologias utilizadas </strong>
-            <br/>
-            <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white/" alt="wordpress">
-          </p>
-          <p align="left">
-            <strong> IDE usada </strong>
-            <br/>
-            <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white/" alt="wordpress">
-          </p>
-          <p align="center">
-            <a href="https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev.github.io" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-            </a>  
-            <a href="https://marcusviniciusdev.com.br/#home" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-            </a>
-          </p>
-        </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">Spotify clone (layout de estudo)</h3>
-        <br />
-        <a target="_blank" href="https://spotify-estudo-ficticio.netlify.app/">
-            <img src="images/spotfy.PNG" width="100%" alt="Spotfy"/>
-        </a>
-        <br />
-        <p>
-          <strong>Website para portfolio</strong>
-        </p>
-        <p align="left">
-          <strong> Tecnologias utilizadas </strong>
+    </p>
+  </td>
+  <td width="50%" valign="top">
+    <h3 align="center">Marcus Vinicius Dev</h3>
+      <br />
+      <a target="_blank" href="https://marcusviniciusdev.com.br/#home">
+        <img src="images/marcus-vini-dev.PNG" width="100%" alt="marcus-vini-dev"/>
+      </a>
+      <br />
+      <p><strong>Meu Website</strong></p>
+      <p align="left">
+        <strong> Tecnologias utilizadas </strong>
         <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+        <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white/" alt="wordpress">
+      </p>
+      <p align="left">
+        <strong> IDE usada </strong>
+        <br/>
+        <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white/" alt="wordpress">
+      </p>
+      <p align="center">
+        <a href="https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev.github.io" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://marcusviniciusdev.com.br/#home" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
         </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-        </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-        </a>
+      </p>
+    </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3 align="center">Spotify clone (layout de estudo)</h3>
+    <br />
+    <a target="_blank" href="https://spotify-estudo-ficticio.netlify.app/">
+        <img src="images/spotfy.PNG" width="100%" alt="Spotfy"/>
+    </a>
+    <br />
+    <p>
+      <strong>Website para portfolio</strong>
+    </p>
+    <p align="left">
+      <strong> Tecnologias utilizadas </strong>
+    <br/>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    </a>
+  </p>
+  <p align="left">
+    <strong> IDE usada </strong>
+    <br/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  </p>
+  <p align="center">
+      <a href="https://github.com/Marcus-Vinicius-Dev/Site-Spotfy-apenas-layout-de-estudo" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+      </a>  
+      <a href="https://spotify-estudo-ficticio.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+      </a>
+    </p>
+  </td>
+  <td width="50%" valign="top">
+    <h3 align="center">Finans</h3>
+    <br />
+    <a target="_blank" href="https://finans-ficticio.netlify.app/">
+        <img src="images/finans.PNG" width="100%" alt="marcus-vini-dev"/>
+    </a>
+    <br />
+    <p>
+      <strong>Site de Finanças</strong>
+    </p>
+    <p align="left">
+      <strong> Tecnologias utilizadas </strong>
+      <br/>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+    </p>
+    <p align="left">
+      <strong> IDE usada </strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    </p>
+    <p align="center">
+      <a href="https://github.com/Marcus-Vinicius-Dev/Site-Finans-layout-ficticio" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+      </a>  
+      <a href="https://finans-ficticio.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+      </a>
+    </p>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3 align="center">Museu Nacional</h3>
+      <br />
+      <a target="_blank" href="https://museu-nacional-ficticio.netlify.app/">
+        <img src="images/museu-nacional.PNG" width="100%" alt="museu-nacional"/>
+      </a>
+      <br />
+      <p>,
+        <strong>Site do Museu</strong>
+      </p>
+      <p align="left">
+        <strong> Tecnologias utilizadas </strong>
+        <br/>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
       </p>
       <p align="left">
         <strong> IDE usada </strong>
@@ -152,109 +215,44 @@
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-          <a href="https://github.com/Marcus-Vinicius-Dev/Site-Spotfy-apenas-layout-de-estudo" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-          </a>  
-          <a href="https://spotify-estudo-ficticio.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Finans</h3>
-        <br />
-        <a target="_blank" href="https://finans-ficticio.netlify.app/">
-            <img src="images/finans.PNG" width="100%" alt="marcus-vini-dev"/>
+        <a href="https://github.com/Marcus-Vinicius-Dev/Site-Museu-Nacional" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://museu-nacional-ficticio.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
         </a>
-        <br />
-        <p>
-          <strong>Site de Finanças</strong>
-        </p>
-        <p align="left">
-          <strong> Tecnologias utilizadas </strong>
-          <br/>
-          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-          <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-        </p>
-        <p align="left">
-          <strong> IDE usada </strong>
-          <br/>
-          <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-        </p>
-        <p align="center">
-          <a href="https://github.com/Marcus-Vinicius-Dev/Site-Finans-layout-ficticio" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-          </a>  
-          <a href="https://finans-ficticio.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">Spotify clone (layout de estudo)</h3>
-          <br />
-          <a target="_blank" href="https://spotify-estudo-ficticio.netlify.app/">
-            <img src="images/spotfy.PNG" width="100%" alt="Spotfy"/>
-          </a>
-          <br />
-          <p>,
-            <strong>Website para portfolio</strong>
-          </p>
-          <p align="left">
-            <strong> Tecnologias utilizadas </strong>
-            <br/>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-          </p>
-          <p align="left">
-            <strong> IDE usada </strong>
-            <br/>
-            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-          </p>
-          <p align="center">
-            <a href="https://github.com/Marcus-Vinicius-Dev/Site-Spotfy-apenas-layout-de-estudo" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-            </a>  
-            <a href="https://spotify-estudo-ficticio.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-            </a>
-          </p>
-        </td>
-        <td width="50%" valign="top">
-          <h3 align="center">Finans</h3>
-          <br />
-          <a target="_blank" href="https://finans-ficticio.netlify.app/">
-            <img src="images/finans.PNG" width="100%" alt="marcus-vini-dev"/>
-          </a>
-          <br />
-          <p>
-            <strong>Site de Finanças</strong>
-          </p>
-          <p align="left">
-            <strong> Tecnologias utilizadas </strong>
-            <br/>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-          </p>
-          <p align="left">
-            <strong> IDE usada </strong>
-            <br/>
-            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-          </p>
-          <p align="center">
-            <a href="https://github.com/Marcus-Vinicius-Dev/Site-Finans-layout-ficticio" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-            </a>  
-            <a href="https://finans-ficticio.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-            </a>
-          </p>
-        </td>
-      </tr>
-    </table>
-</hr>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Finans</h3>
+      <br />
+      <a target="_blank" href="https://finans-ficticio.netlify.app/">
+        <img src="images/finans.PNG" width="100%" alt="marcus-vini-dev"/>
+      </a>
+      <br />
+      <p>
+        <strong>Site de Finanças</strong>
+      </p>
+      <p align="left">
+        <strong> Tecnologias utilizadas </strong>
+        <br/>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+      </p>
+      <p align="left">
+        <strong> IDE usada </strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/Marcus-Vinicius-Dev/Site-Finans-layout-ficticio" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://finans-ficticio.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
