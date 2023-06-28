@@ -315,7 +315,7 @@
       </p>
     </td>-->
     <td width="50%" valign="top">
-      <h3 align="center">Trabalhando em algo novo :gear: :computer:</h3>
+      <h3 align="center">Em breve publicarei algo no aqui <br/> :gear: :computer:</h3>
       <br />
       <p align="center"><img src="images/foto-emoji-pc.png" width="50%" valign="center" halign="center" alt="foto-emoji-pc"/></p>
     </td>
