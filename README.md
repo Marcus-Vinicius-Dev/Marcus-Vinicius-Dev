@@ -3,6 +3,7 @@
 </p>
 
 ![Banner](https://user-images.githubusercontent.com/114368047/195998274-35149a9d-5fc9-4ef4-ad71-61cd2948277d.jpg)
+<img src="images/banner.jpg" width="100%" alt="banner"/>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Olá! Sou o Marcus Vinicius
