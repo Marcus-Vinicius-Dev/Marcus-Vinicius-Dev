@@ -52,7 +52,7 @@
   
   <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9&theme=merko" alt="status-com-foto" /></p>
 
-  (https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9&theme=merko)
+  https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&layout=compact&theme=merko
 
 </div>
  
