@@ -128,10 +128,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">RM Veículos Website</h3>
+      <h3 align="center">Spotify Website layout de estudo</h3>
         <br />
-        <a target="_blank" href="https://rmveiculosespeciais.marcusviniciusdev.com.br/">
-            <img src="images/rm-veiculos.PNG" width="100%" alt="RM Veículos Website"/>
+        <a target="_blank" href="https://spotify-estudo-ficticio.netlify.app/">
+            <img src="images/rm-veiculos.PNG" width="100%" alt="Spotfy"/>
         </a>
         <br />
         <p><strong>Website para portfolio</strong></p>
@@ -149,10 +149,10 @@
       </p>
       <p align="center">
           
-  <a href="https://github.com/Marcus-Vinicius-Dev/Site-rm-veiculos-especiais" target="_blank">
+  <a href="https://github.com/Marcus-Vinicius-Dev/Site-Spotfy-apenas-layout-de-estudo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://rmveiculosespeciais.marcusviniciusdev.com.br/" target="_blank">
+  <a href="https://spotify-estudo-ficticio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
