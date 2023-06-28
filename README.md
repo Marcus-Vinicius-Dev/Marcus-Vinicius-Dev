@@ -44,11 +44,11 @@
 <br>
 <div align="center">
 
-  ![Juste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&theme=java-dark)
+  ![Juste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&theme=javascript-dark)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicius-Dev&layout=compact&theme=java-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicius-Dev&layout=compact&theme=javascript-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&&theme=java-dark/" alt="Marcus-Vinicius-Dev03"/></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&&theme=javascript-dark/" alt="Marcus-Vinicius-Dev03"/></p>
 
 </div>
  
