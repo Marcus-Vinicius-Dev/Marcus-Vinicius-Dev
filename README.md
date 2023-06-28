@@ -314,8 +314,8 @@
         </a>
       </p>
     </td>-->
-    <td width="50%" valign="top">
-      <h3 align="center">Trabalhando em algo novo :gear: :computer:</h3>
+    <td width="50%">
+      <h3 align="center" align="top">Trabalhando em algo novo :gear: :computer:</h3>
       <br />
       <img src="images/foto-emoji-pc.png" width="50%" walign="center" alt="foto-emoji-pc"/>
     </td>
