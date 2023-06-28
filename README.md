@@ -227,7 +227,7 @@
       <h3 align="center">App Calculadora</h3>
       <br />
       <a target="_blank" href="https://appcalculadora.marcusviniciusdev.com.br/">
-        <img src="images/app-calculadora.PNG" width="100%" alt="app-calculadora"/>
+        <img src="images/app-calculadora.PNG" width="50%" alt="app-calculadora"/>
       </a>
       <br />
       <p>
