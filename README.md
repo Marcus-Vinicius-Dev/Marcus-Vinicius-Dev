@@ -43,18 +43,12 @@
 </div>
 <br>
 <div align="center">
-  
 
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcus-Vinicius-Dev&show_icons=true&locale=en&layout=compact" alt="Marcus-Vinicius-Dev01"/></p>
-
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&locale=en" alt="Marcus-Vinicius-Dev02"/></p>
-
-  
   ![Juste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&theme=merko)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicius-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicius-Dev&layout=compact&theme=darkula)](https://github.com/anuraghazra/github-readme-stats)
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&&theme=dark/" alt="Marcus-Vinicius-Dev03"/></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&&theme=merko/" alt="Marcus-Vinicius-Dev03"/></p>
 
 </div>
  
