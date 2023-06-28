@@ -71,7 +71,7 @@
             <img src="images/rm-veiculos.PNG" width="100%" alt="RM Veículos Website"/>
         </a>
         <br />
-        <p><strong>Website para portfolio</strong></p>
+        <p><strong>Compra e venda de carros</strong></p>
       <p align="left">
         <strong> Tecnologias utilizadas </strong>
         <br/>
@@ -158,7 +158,7 @@
       <h3 align="center">Finans</h3>
         <br />
         <a target="_blank" href="https://finans-ficticio.netlify.app/">
-            <img src="images/marcus-vini-dev.PNG" width="100%" alt="marcus-vini-dev"/>
+            <img src="images/finans.PNG" width="100%" alt="marcus-vini-dev"/>
         </a>
         <br />
         <p><strong>Site de Finanças</strong></p>
