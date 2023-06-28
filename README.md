@@ -50,7 +50,7 @@
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Marcus-Vinicius-Dev&layout=compact&theme=merko)](https://git.io/streak-stats)
   
-  <img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9&theme=merko" alt="status-com-foto" />
+  <!--<img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9&theme=merko" alt="status-com-foto" />-->
 
 </div>
  
@@ -65,7 +65,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">RM Veículos Website</h3>
+      <h3 align="center">RM Veículos</h3>
         <br />
         <a target="_blank" href="https://rmveiculosespeciais.marcusviniciusdev.com.br/">
             <img src="images/rm-veiculos.PNG" width="100%" alt="RM Veículos Website"/>
@@ -95,7 +95,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Marcus Vinicius Dev Website</h3>
+      <h3 align="center">Marcus Vinicius Dev</h3>
         <br />
         <a target="_blank" href="https://marcusviniciusdev.com.br/#home">
             <img src="images/marcus-vini-dev.PNG" width="100%" alt="marcus-vini-dev"/>
@@ -125,7 +125,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Spotify Website layout de estudo</h3>
+      <h3 align="center">Spotify clone (layout de estudo)</h3>
         <br />
         <a target="_blank" href="https://spotify-estudo-ficticio.netlify.app/">
             <img src="images/spotfy.PNG" width="100%" alt="Spotfy"/>
@@ -155,13 +155,13 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Finans Website</h3>
+      <h3 align="center">Finans</h3>
         <br />
         <a target="_blank" href="https://finans-ficticio.netlify.app/">
             <img src="images/marcus-vini-dev.PNG" width="100%" alt="marcus-vini-dev"/>
         </a>
         <br />
-        <p><strong>Meu Website</strong></p>
+        <p><strong>Site de Finanças</strong></p>
       <p align="left">
         <strong> Tecnologias utilizadas </strong>
         <br/>
@@ -176,10 +176,10 @@
       </p>
       <p align="center">
           
-  <a href="https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev.github.io" target="_blank">
+  <a href="https://github.com/Marcus-Vinicius-Dev/Site-Finans-layout-ficticio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://marcusviniciusdev.com.br/#home" target="_blank">
+  <a href="https://finans-ficticio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
