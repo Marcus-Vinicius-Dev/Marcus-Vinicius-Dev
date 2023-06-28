@@ -103,9 +103,8 @@
       <p align="left">
         <strong> Tecnologias utilizadas </strong>
         <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/" alt="html5">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/" alt="css3">
       </p>
       <p align="left">
         <strong> IDE usada </strong>
@@ -136,14 +135,9 @@
     <p align="left">
       <strong> Tecnologias utilizadas </strong>
     <br/>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/" alt="html5">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/" alt="css3">
+          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/" alt="bootstrap"> 
     </a>
   </p>
   <p align="left">
@@ -173,9 +167,9 @@
     <p align="left">
       <strong> Tecnologias utilizadas </strong>
       <br/>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/" alt="html5">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/" alt="css3">
+          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/" alt="bootstrap">
     </p>
     <p align="left">
       <strong> IDE usada </strong>
@@ -200,14 +194,14 @@
         <img src="images/museu-nacional.PNG" width="100%" alt="museu-nacional"/>
       </a>
       <br />
-      <p>,
+      <p>
         <strong>Site do Museu</strong>
       </p>
       <p align="left">
         <strong> Tecnologias utilizadas </strong>
         <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/" alt="html5">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/" alt="css3">
       </p>
       <p align="left">
         <strong> IDE usada </strong>
@@ -236,9 +230,10 @@
       <p align="left">
         <strong> Tecnologias utilizadas </strong>
         <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/" alt="html5">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/" alt="css3">
+          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/" alt="bootstrap">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black/" alt="javascript"> 
       </p>
       <p align="left">
         <strong> IDE usada </strong>
@@ -253,6 +248,76 @@
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
         </a>
       </p>
+    </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
+    <h3 align="center">Jogo do Mosquito</h3>
+      <br />
+      <a target="_blank" href="https://jogodomosquito.marcusviniciusdev.com.br/">
+        <img src="images/jogo-do-mosquito.PNG" width="100%" alt="jogo-do-mosquito"/>
+      </a>
+      <br />
+      <p>
+        <strong>App de Game</strong>
+      </p>
+      <p align="left">
+        <strong> Tecnologias utilizadas </strong>
+        <br/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/" alt="html5">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/" alt="css3">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black/" alt="javascript"> 
+      </p>
+      <p align="left">
+        <strong> IDE usada </strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/Marcus-Vinicius-Dev/App-Jogo-do-Mosquito" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://jogodomosquito.marcusviniciusdev.com.br/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
+      </p>
+    </td>
+<!--<td width="50%" valign="top">
+      <h3 align="center">App Calculadora</h3>
+      <br />
+      <a target="_blank" href="https://appcalculadora.marcusviniciusdev.com.br/">
+        <img src="images/appcalculadora.PNG" width="100%" alt="app-calculadora"/>
+      </a>
+      <br />
+      <p>
+        <strong>Aplicativo de calculadora simples</strong>
+      </p>
+      <p align="left">
+        <strong> Tecnologias utilizadas </strong>
+        <br/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/" alt="html5">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/" alt="css3">
+          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/" alt="bootstrap">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black/" alt="javascript"> 
+      </p>
+      <p align="left">
+        <strong> IDE usada </strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/Marcus-Vinicius-Dev/SApp-Calculadora" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://appcalculadora.marcusviniciusdev.com.br/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
+      </p>
+    </td>-->
+    <td width="50%" valign="top">
+      <h3 align="center">App Calculadora</h3>
+      <br />
+      <img src="images/foto-emoji-pc.png" width="100%" alt="foto-emoji-pc"/>
     </td>
   </tr>
 </table>
