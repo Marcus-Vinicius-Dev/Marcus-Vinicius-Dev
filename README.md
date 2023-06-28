@@ -50,9 +50,9 @@
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Marcus-Vinicius-Dev&layout=compact&theme=merko)](https://git.io/streak-stats)
   
-  <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9&theme=merko" alt="status-com-foto" /></p>
+  <img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9&theme=merko" alt="status-com-foto" />
 
-  https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&layout=compact&theme=merko
+  <img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&layout=compact&theme=merko" alt="status-com-foto" />
 
 </div>
  
