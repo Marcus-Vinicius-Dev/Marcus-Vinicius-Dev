@@ -52,8 +52,6 @@
   
   <img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9&theme=merko" alt="status-com-foto" />
 
-  <img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&layout=compact&theme=merko" alt="status-com-foto" />
-
 </div>
  
   ![Snake animation](https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/blob/output/github-contribution-grid-snake.svg)
