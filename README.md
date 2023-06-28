@@ -44,7 +44,7 @@
 <br>
 <div align="center">
 
-  ![Juste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&theme=javascript-dark)
+  ![Juste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&theme=merko)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicius-Dev&layout=compact&theme=javascript-dark)](https://github.com/anuraghazra/github-readme-stats)
 
