@@ -46,7 +46,7 @@
 
   ![Juste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Vinicius-Dev&show_icons=true&theme=merko)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicius-Dev&layout=compact&theme=darkula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Vinicius-Dev&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Vinicius-Dev&&theme=merko/" alt="Marcus-Vinicius-Dev03"/></p>
 
