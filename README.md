@@ -53,6 +53,8 @@
   <!--<img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9&theme=merko" alt="status-com-foto" />-->
 
 </div>
+
+uses: Platane/snk/svg-only@v2
  
   ![Snake animation](https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/blob/output/github-contribution-grid-snake.svg)
 
