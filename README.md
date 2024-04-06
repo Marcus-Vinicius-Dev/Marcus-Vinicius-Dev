@@ -60,8 +60,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
- 
-  ![Snake animation](https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">
   ⬇ Obrigado! Confira meus projetos abaixo e deixe uma ⭐️ ⬇
