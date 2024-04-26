@@ -13,7 +13,7 @@
 <img src="images/surf.png" height="200" width="200" align="right" alt="surf"/>
 
 - 🔭 Atualmente trabalho como professor na rede pública de SP
-- 🌱 Estudando Java
+- 🌱 Estudando Python
 - 📫 Como me encontrar? **marcus.vini.dev@gmail.com**
 - 😄 Pronome ele/dele
 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/" alt="css3">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/" alt="bootstrap">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black/" alt="javascript"> 
-  <img src="https://img.shields.io/badge/Java-5381a1?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  <!--<img src="https://img.shields.io/badge/Java-5381a1?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />-->
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white/" alt="git"> 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/" alt="github">  
   <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white/" alt="wordpress">
