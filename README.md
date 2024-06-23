@@ -65,6 +65,8 @@
 </picture>
 <br><br>
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="center">
   ⬇ Obrigado! Confira meus projetos abaixo e deixe uma ⭐️ ⬇
 </h3>
