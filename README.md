@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=HTML+%7C%7C+CSS+%7C%7C+JavaScript+%7C%7C+WordPress;Estudante+de+Tecnologia+da+Informação;Aprendendo+algo+novo+todo+dia;A+melhor+maneira+de+prever+o+futuro+é+criá-lo.+(Peter+Drucker)&center=true&width=800&height=45/" alt="texto-de-apresentacao">
 </p>
 
-<img src="images/banner.jpg" width="100%" alt="banner"/>
+<!--<img src="images/banner.jpg" width="100%" alt="banner"/>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="tchauzinho">
@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="tchauzinho">
 </h1>
 
-<img src="images/surf.png" height="200" width="200" align="right" alt="surf"/>
+<img src="images/surf.png" height="200" width="200" align="right" alt="surf"/>-->
 
 - 🔭 Atualmente trabalho como professor na rede pública de SP
 - 🌱 Estudando Python
