@@ -266,6 +266,7 @@
     </td>
   </tr>
   <tr>
+  <!--
   <td width="50%" valign="top">
     <h3 align="center">Jogo do Mosquito</h3>
       <br />
@@ -297,7 +298,9 @@
         </a>
       </p>
     </td>
-<!--<td width="50%" valign="top">
+    -->
+    <!--
+  <td width="50%" valign="top">
       <h3 align="center">App Calculadora</h3>
       <br />
       <a target="_blank" href="https://appcalculadora.marcusviniciusdev.com.br/">
@@ -328,7 +331,8 @@
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
         </a>
       </p>
-    </td>-->
+    </td>
+    -->
     <td width="50%" valign="top">
       <h3 align="center">Em breve publicarei algo novo aqui <br/><br/> :gear: :computer:</h3>
       <br />
