@@ -56,9 +56,7 @@
   
   <!--<img align="center" src="https://github-stats-alpha.vercel.app/api?username=Marcus-Vinicius-Dev&bc=ebebeb&ic=0E8AD9&theme=merko" alt="status-com-foto" />-->
 
-</div>
-
-<picture>
+  <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/output/github-contribution-grid-snake-dark.svg"
@@ -72,6 +70,8 @@
     src="https://raw.githubusercontent.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+</div>
 
 
 <!--
