@@ -88,6 +88,8 @@
 <br><br>
 -->
 
+![snake gif](https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/blob/output/github-contribution-grid-snake.gif)
+
 <h3 align="center">
   ⬇ Obrigado! Confira meus projetos abaixo e deixe uma ⭐️ ⬇
 </h3>
