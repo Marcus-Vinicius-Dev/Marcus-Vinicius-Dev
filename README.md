@@ -58,7 +58,7 @@
 
 </div>
 
-
+ <!--
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
