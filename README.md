@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=JavaScript+%7C%7C+Python+%7C%7C+Django;Estudante+de+Ciência+da+Computação;Aprendendo+algo+novo+todo+dia;A+melhor+maneira+de+prever+o+futuro+é+criá-lo.+(Peter+Drucker)&center=true&width=800&height=45/" alt="texto-de-apresentacao">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=JavaScript+%7C%7C+Python+%7C%7C+Django;Bacharel+em+Tecnologia+da+Informação;Aprendendo+algo+novo+todo+dia;A+melhor+maneira+de+prever+o+futuro+é+criá-lo.+(Peter+Drucker)&center=true&width=800&height=45/" alt="texto-de-apresentacao">
 </p>
 
 <!--<img src="images/banner.jpg" width="100%" alt="banner"/>
